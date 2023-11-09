@@ -20,7 +20,13 @@
 		<div>
 			<h1> Vos récompenses </h1>
 		</div>	
- <div><h1> Mes commandes </h1><li> git status </li><li> git log </li><li> git init </li></div>		
+<<<<<<< HEAD
+ <div><h1> Mes commandes </h1><li> git status </li><li> git log </li></div>	
+=======
+ 
+<div><h1> Mes commandes </h1><li> git log </li><li> git status </li></div>		
 
+
+>>>>>>> 70cf06912e8b6f39ea2c65b8aa46656bd337947b
 	</body>
 </html>
